@@ -4,6 +4,7 @@
 	owner: "985eccf1-94e8-42f6-9c2b-4696cc8e67d8"
 	ranks: {
 		aba73b05-781c-31d9-b120-329d29bb5b62: "member"
+		24a96eba-90b1-36a0-bda0-7b98daf8d8d1: "member"
 		985eccf1-94e8-42f6-9c2b-4696cc8e67d8: "owner"
 		6c9ddcbb-0135-31cc-8ea7-6b6e55caaf73: "member"
 	}
@@ -34,6 +35,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1768673837883L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ovsanka199\"}]}" }
 		{ from: "6c9ddcbb-0135-31cc-8ea7-6b6e55caaf73", date: 1768697637410L, text: "{\"text\":\"привет\"}" }
 		{ from: "985eccf1-94e8-42f6-9c2b-4696cc8e67d8", date: 1768697640326L, text: "{\"text\":\"ргш\"}" }
+		{ from: "985eccf1-94e8-42f6-9c2b-4696cc8e67d8", date: 1768747903662L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"rostik_1488\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768747932298L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"rostik_1488\"}]}" }
 	]
 	extra: { }
 }
