@@ -1,0 +1,253 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfg.rock/crackrack_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/crackrack_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_blackstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_blackstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_crackrack_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_crackrack_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_crackrack_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_crackrack_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_moon_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_moon_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_mercury_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_mercury_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/polished_crackrack_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/polished_crackrack_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/polished_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/polished_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/polished_red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/polished_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_blackstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_blackstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_nether_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_nether_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_nether_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_nether_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_moon_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_moon_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_moon_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_moon_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/bricks_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/chiseled_bricks_moon_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/chiseled_bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_mercury_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_mercury_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_mercury_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_mercury_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/bricks_red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/bricks_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_red_granite_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_red_granite_slab",
+      "required": false
+    }
+  ]
+}

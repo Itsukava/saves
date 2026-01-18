@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:alekiroofs.brick_roofing",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:mcw_tfc_aio.roofs/brick_roofs/bricks_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:mcw_tfc_aio.roofs/brick_roofs/bricks_lower_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:mcw_tfc_aio.roofs/brick_roofs/bricks_steep_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:mcw_tfc_aio.roofs/brick_roofs/bricks_upper_lower_roof",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:mcw_tfc_aio.roofs/brick_roofs/bricks_upper_steep_roof",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:species.alphacene_moss_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:wan_ancient_beasts.straw_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:wan_ancient_beasts.straw_stairs",
+      "required": false
+    }
+  ]
+}

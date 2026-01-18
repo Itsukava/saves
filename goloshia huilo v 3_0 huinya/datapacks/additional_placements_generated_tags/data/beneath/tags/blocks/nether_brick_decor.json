@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.nether_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.nether_brick_slab",
+      "required": false
+    }
+  ]
+}

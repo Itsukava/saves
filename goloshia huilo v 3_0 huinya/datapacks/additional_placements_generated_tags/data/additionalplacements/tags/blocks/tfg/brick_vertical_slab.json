@@ -1,0 +1,121 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_tiles_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_blackstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_nether_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_nether_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_moon_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_moon_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/chiseled_bricks_moon_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_mars_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_mars_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_venus_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_venus_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_mercury_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_mercury_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_glacio_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_glacio_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_permafrost_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_permafrost_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/bricks_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_red_granite_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_venus_sandstone_slab",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.light_weighted_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.heavy_weighted_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.polished_blackstone_pressure_plate",
+      "required": false
+    }
+  ]
+}

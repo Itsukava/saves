@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfg.rock/deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_tiles_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_tiles_deepslate_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_deepslate_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_deepslate_slab",
+      "required": false
+    }
+  ]
+}

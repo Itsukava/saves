@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_permafrost_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_permafrost_slab",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_venus_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_venus_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_glacio_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_glacio_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_venus_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_venus_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_venus_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_venus_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_glacio_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_glacio_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_glacio_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_glacio_slab",
+      "required": false
+    }
+  ]
+}

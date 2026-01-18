@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:tfg.rock/dripstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_dripstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cobble_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_dripstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_mars_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_cobble_mars_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_dripstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_dripstone_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_mars_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/cracked_bricks_mars_slab",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_mars_stairs",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:tfg.rock/mossy_bricks_mars_slab",
+      "required": false
+    }
+  ]
+}
