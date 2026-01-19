@@ -191,6 +191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-01-18 13:39:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-01-18 13:39:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2026-01-18 14:18:24 -0500"
@@ -221,21 +233,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2026-01-18 13:39:31 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2026-01-18 14:18:24 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_gunpowder": "2026-01-18 13:39:31 -0500"
+      "has_wood_slab": "2026-01-18 17:25:05 -0500"
     },
     "done": true
   },
